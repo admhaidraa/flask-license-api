@@ -32,7 +32,7 @@ PyScreeze==1.0.1
 PySocks==1.7.1
 python-dotenv==1.0.1
 pytweening==1.2.0
-pywin32==308
+#pywin32==308
 pywin32-ctypes==0.2.3
 requests==2.32.3
 selenium==4.27.1
